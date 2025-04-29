@@ -17,8 +17,8 @@ Quantitative Researcher | [Mustafa MAJJI](linkedin.com/in/mustafa-majji-3a59861a
 
 ## 🛠️ Common Regularization Techniques:
 
-- **Weight Constraints :**  Imposing constraints on portfolio weights (e.g., long-only, maximum position size) is itself a form of regularization that helps reduce overfitting.
-- **Resampling Methods:** These methods aim to mitigate estimation error by generating multiple alternative scenarios from the original data:
+- **Weight Constraints**:  Imposing constraints on portfolio weights (e.g., long-only, maximum position size) is itself a form of regularization that helps reduce overfitting.
+- **Resampling Methods**: These methods aim to mitigate estimation error by generating multiple alternative scenarios from the original data:
     - **Monte Carlo Simulation**:Asset returns are simulated from a multivariate normal distribution using the sample mean and covariance matrix.
     - **Bootstrap Resampling**:Returns are randomly drawn with replacement from the original dataset to create new samples.
   
